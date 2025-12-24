@@ -2,7 +2,7 @@
   <img src="asset/loginpage.png" alt="Kyystore Login" width="600"/>
 </p>
 
-<h1 align="center">🔐 Kyystore - Sistem Enkripsi Data Pelanggan</h1>
+<h1 align="center">Kyystore - Sistem Enkripsi Data Pelanggan</h1>
 
 <p align="center">
   <strong>Tugas Mata Kuliah Kriptografi</strong><br/>
